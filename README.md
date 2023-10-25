@@ -9,7 +9,8 @@ I'm a 19-year-old full-time third-level student with a lifelong interest in tech
 
 
 ## Languages and Tools 🧰
-<img align="left" alt"Java" width="30px" style="padding-right:10px;" src="img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-          
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />
+            
 
 Follow me on GitHub to stay updated with my latest work! 🚀
