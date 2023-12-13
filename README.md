@@ -10,11 +10,17 @@ I'm a 19-year-old full-time third-level student with a lifelong interest in tech
 
 ## Languages and Tools 🧰
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-<img align="left" alt="Pycharm" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />          
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c#&logoColor=white) 
+![Python](https://img.shields.io/badge/python-9F2B68?style=for-the-badge&logo=python&logoColor=FFFF00) 
+![Adobe Photoshop](https://img.shields.io/badge/adobe_photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=202A44)
+![Adobe After Effects](https://img.shields.io/badge/adobe_after_effects-%23BF40BF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=5D3FD3) 
+![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white) 
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-%23FCC624?style=for-the-badge&logo=unity&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-%23FFFFFF?style=for-the-badge&logo=Cisco&logoColor=Black)
+
 <br />
 <br />
 
