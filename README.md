@@ -20,6 +20,13 @@ I'm a 19-year-old full-time third-level student with a lifelong interest in tech
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-%23FCC624?style=for-the-badge&logo=unity&logoColor=black)
 ![Cisco](https://img.shields.io/badge/Cisco-%23FFFFFF?style=for-the-badge&logo=Cisco&logoColor=Black)
+![HTML](https://img.shields.io/badge/HTML-%2300599C?style=for-the-badge&logo=HTML&logoColor=Black)
+![CSS](https://img.shields.io/badge/CSS-%23FCC624?style=for-the-badge&logo=CSS&logoColor=Black)
+![Java](https://img.shields.io/badge/Java-%23FF4433?style=for-the-badge&logo=Java&logoColor=Black)
+![MYSQL](https://img.shields.io/badge/MYSQL-%23D0D3D4?style=for-the-badge&logo=MYSQL&logoColor=Black)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23D0D3D4?style=for-the-badge&logo=JavaScript&logoColor=Black)
+![PHP](https://img.shields.io/badge/PHP-%23692719?style=for-the-badge&logo=PHP&logoColor=Black)
+
 
 <br />
 <br />
